@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>灿哈哈</title>
-  
+  <icon>https://chh00.github.io/icon.png</icon>
   <subtitle>灿哈哈</subtitle>
   <link href="https://chh00.github.io/atom.xml" rel="self"/>
   
